@@ -1,3 +1,7 @@
+HEAD
+
+* Use pry-byebug instead of just byebug
+
 1.32.0 (October 9, 2015)
 
 * Install Foreman automatically during setup script
